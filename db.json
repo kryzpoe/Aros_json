@@ -1,0 +1,20 @@
+{
+    "anillos":[ {
+        "nombre":"Aros de lapislazuli",
+        "avartar":"",
+        "detalle":"Aros de plata 950, con lapislazuli"
+    },{
+        "nombre":"Aros de cruz",
+        "avartar":"",
+        "detalle":"Aros de plata 950, con un circon"
+    },{
+        "nombre":"Aros trepadores de corazon",
+        "avartar":"",
+        "detalle":"Aros de plata 950"
+    },{
+        "nombre":"Aros de gato",
+        "avartar":"",
+        "detalle":"Aros de plata 950 con un rubi"
+    }
+    ]
+ }
